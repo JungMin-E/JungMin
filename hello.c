@@ -15,7 +15,7 @@ int main()
 		
 		pos++;
 	}
-	printf("%d\n", decimal);
+	printf("number: %d\n", decimal);
 
 	return 0;
 }

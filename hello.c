@@ -16,7 +16,9 @@ int main()
 		pos++;
 	}
 	printf("number: %d\n", decimal);
-  printf("master에서 수정"\n);
-	printf("안녕히가세요"\n);
+
+  printf("뉴 브랜치에서 왔어요\n");
+	printf("다음에 만날수 있을까요\n");
+
 	return 0;
 }

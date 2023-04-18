@@ -17,5 +17,6 @@ int main()
 	}
 	printf("number: %d\n", decimal);
   printf("안녕하세요"\n);
+	printf("다음에 만날수 있을까요?\n);
 	return 0;
 }
